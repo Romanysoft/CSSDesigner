@@ -2,17 +2,17 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "Documents",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Trial",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
         "Buy": "Buy",
-        "Roadmap": "Roadmap",
+        "Documents": "Documentation",
         "ReportIssue": "Issues",
         "Languages": "Languages"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Full-featured CSS3 Designer. For Windows, Linux and MacOSX.",
+        "ProjectTagline": "Full-featured CSS3 Designer.",
         "BtnDownload": "Trial",
         "BtnBuy": "Buy",
         "Screens": [
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.png}}"
         ],
         "Features": {
-            "SectionName": "Main Features of CSSDesigner",
+            "SectionName": "{{Main Features of CSSDesigner}}",
             "list": [
                 "{{Quickly and easily create any CSS3(CSS2) effects.}}",
                 "{{Edit and apply special effects to portions of select}}",
@@ -63,21 +63,7 @@
             }
         ]
     },
-    "ReleaseNotePage": {
-        "labelVersion": "Version",
-        "list": [
-            {
-                "version": "{{4.4}}",
-                "updateDate": "{{2016.04.08}}",
-                "list":[
-                    {
-                        "platform":"{{Windows,Linux,MacOSX}}",
-                        "content":"{{First release}}"
-                    }
-                ]
-            }
-        ]
-    },
+
     "VersionPage": {
         "labelVersion": "Version",
         "list": [
@@ -133,12 +119,6 @@
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$19.9}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-32}}"
-            },
-            {
-                "name": "{{CSSDesigner for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/mas.png}}",
-                "price": "{{$11.99}}",
-                "buyURL": "{{https://itunes.apple.com/us/app/cssdesigner/id892155999?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{CSSDesigner for linux}}",
