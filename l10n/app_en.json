@@ -109,21 +109,23 @@
         "SectionName": "Buy",
         "list": [
             {
-                "name": "{{CSSDesigner for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "name": "{{CSSDesigner for Windows}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.9}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-44}}"
             },
             {
-                "name": "{{CSSDesigner for MacOSX, for MacOSX 10.7 and later}}",
+                "name": "{{CSSDesigner for Mac}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$19.9}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-32}}"
             },
             {
-                "name": "{{CSSDesigner for linux}}",
+                "name": "{{CSSDesigner for Mac}}",
+                "logo": "{{images/buy/mas.png}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/cssdesigner/id892155999?l=zh&ls=1&mt=12}}" 
+            },
+            {
+                "name": "{{CSSDesigner for Linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$19.9}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-45}}"
             }
         ]
