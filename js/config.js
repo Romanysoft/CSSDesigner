@@ -4,7 +4,7 @@
         appID:"com.romanysoft.app.macos.CSSDesigner",
         documentTitle:"CSSDesigner By Romanysoft",
         supportPlatforms:["Mac","Windows","Linux"],
-        googleUA:"UA-43238484-9",
+        googleUA:"UA-76676167-3",
         gitHome:"//github.com/Romanysoft/CSSDesigner",
         reportIssueUrl:"//github.com/Romanysoft/CSSDesigner/issues",
         changeLogUrl:"//github.com/Romanysoft/CSSDesigner/wiki/Changelog",
