@@ -47,26 +47,49 @@
     "FeaturePage": {},
     "DocumentsPage": {
         "list": [
-            {
-                "hrefID": "{{export_as_pdf}}",
-                "section": "{{Export - export markdown preview document to pdf}}",
-                "videos": [
-                    {
-                        "description": "{{Export markdown preview document to pdf file on Linux}}",
-                        "url": "{{videos/docs/export_as_pdf_linux.mp4}}"
-                    },
-                    {
-                        "description": "{{Export markdown preview document to pdf file on MacOSX}}",
-                        "url": "{{videos/docs/export_as_pdf_macos.mp4}}"
-                    }
-                ]
-            }
+
         ]
     },
 
     "VersionPage": {
         "labelVersion": "Version",
         "list": [
+            {
+                "version":"{{4.5}}",
+                "updateDate": "{{2016.04.24}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{CSSDesigner-v4.5-win32-x86-setup.exe}}",
+                        "size": "{{35.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/66ba0jnu93yz/CSSDesigner-v4.5-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{CSSDesigner-v4.5-win32-x64-setup.exe}}",
+                        "size": "{{41.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6ta2r3360hjj/CSSDesigner-v4.5-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{CSSDesigner-v4.5-darwin-x64.zip}}",
+                        "size": "{{2.26MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5ugwsq0hxut/CSSDesigner-v4.5.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{CSSDesigner-v4.5-linux-ia32-install.tar.gz}}",
+                        "size": "{{44MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7fvoti9sdh1j/CSSDesigner-v4.5-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{CSSDesigner-v4.5-linux-x64-install.tar.gz}}",
+                        "size": "{{44MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5bm0pk6qzh0t/CSSDesigner-v4.5-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version":"{{4.4}}",
                 "updateDate": "{{2016.04.08}}",
