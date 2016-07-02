@@ -57,6 +57,39 @@
         "labelVersion": "Version",
         "list": [
             {
+                "version":"{{4.7}}",
+                "updateDate": "{{2016.07.02}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{CSSDesigner-v4.7-win32-x86-setup.exe}}",
+                        "size": "{{36.3MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/540jnhbgucft/CSSDesigner-v4.7-win32-x86-setup.exe}}",
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/CSSDesinger/4.7.0/CSSDesigner-v4.7-win32-x86-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{CSSDesigner-v4.7-win32-x64-setup.exe}}",
+                        "size": "{{42.6MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/2woecjze5l0n/CSSDesigner-v4.7-win32-x64-setup.exe}}",
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/CSSDesinger/4.7.0/CSSDesigner-v4.7-win32-x64-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{CSSDesigner-v4.7.0-darwin-x64.dmg}}",
+                        "size": "{{2MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/3auc87yopo7h/CSSDesigner-v4.7.0-darwin-x64.dmg}}",
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/CSSDesinger/4.6.0/CSSDesigner-v4.6.0-darwin-x64.dmg}}"
+                        ]
+                    }
+                ]
+            },              
+            {
                 "version":"{{4.6}}",
                 "updateDate": "{{2016.06.15}}",
                 "zipList": [
