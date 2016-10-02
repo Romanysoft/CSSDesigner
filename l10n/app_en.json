@@ -57,6 +57,21 @@
         "labelVersion": "Version",
         "list": [
             {
+                "version":"{{4.7.1}}",
+                "updateDate": "{{2016.10.02}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{CSSDesigner-v4.7.1-darwin-x64.dmg}}",
+                        "size": "{{2.59MB}}",
+                        "downURL": [
+                          "{{https://www.filefactory.com/file/33kh6npkk2fh/CSSDesigner-v4.7.1-darwin-x64.zip}}",
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/CSSDesinger/4.7.1/CSSDesigner-v4.7.1-darwin-x64.dmg}}"
+                        ]
+                    }
+                ]
+            },             
+            {
                 "version":"{{4.7}}",
                 "updateDate": "{{2016.07.02}}",
                 "zipList": [
