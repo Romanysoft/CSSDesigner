@@ -225,11 +225,6 @@
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-6}}"
             },
             {
-                "name": "{{CSSDesigner for Mac}}",
-                "logo": "{{images/buy/mas.png}}",
-                "buyURL": "{{https://itunes.apple.com/us/app/cssdesigner/id892155999?l=zh&ls=1&mt=12}}" 
-            },
-            {
                 "name": "{{CSSDesigner for Linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-45}}"
