@@ -4,9 +4,9 @@ Welcome to the _**CSSDesigner**_ wiki!
 
 [http://romanysoft.github.io/CSSDesigner](http://romanysoft.github.io/CSSDesigner)
 
-_**CSSDesigner**_ app. Simple, but powerful to process Excel (. xls) file to CSV. 
+_**CSSDesigner**_ app. Full-featured CSS2/CSS3 Designer.
 
-Full-featured CSS2/CSS3 Designer.
+
 
 CSSDesigner takes full advantage of the latest Mac technologies, giving you speedy, powerful tools that let you touch up and enhance css, draw or paint, apply dazzling effects, or create advanced compositions amazingly simple.
 
