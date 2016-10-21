@@ -1,10 +1,39 @@
-CSSDesigner
-===========
+Welcome to the _**CSSDesigner**_ wiki!
 
-Full-featured and powerful CSS designing app.
+![](https://romanysoft.github.io/CSSDesigner/images/logo_64.png)
 
-[![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,h_100/v1416983052/common/buy.png)](https://shopper.mycommerce.com/checkout/cart/add/55399-6)
-[![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,h_96/v1416983052/common/cart.png)](https://shopper.mycommerce.com/checkout/cart/add/55399-6)
+[http://romanysoft.github.io/CSSDesigner](http://romanysoft.github.io/CSSDesigner)
+
+_**CSSDesigner**_ app. Simple, but powerful to process Excel (. xls) file to CSV. 
+
+Full-featured CSS2/CSS3 Designer.
+
+CSSDesigner takes full advantage of the latest Mac technologies, giving you speedy, powerful tools that let you touch up and enhance css, draw or paint, apply dazzling effects, or create advanced compositions amazingly simple.
+
+**A powerful tools**
+
+* ■Quickly and easily create any CSS3(CSS2) effects.
+* ■Edit and apply special effects to portions of select
+* ■Select and remove unwanted elements of your desinger css properties.
+* ■Copy one layer to other
+
+**Top-notch painting tools**
+
+* ■Paint with CSSDesinger as you would on canvas
+* ■Use different sizes, shapes, and blending modes
+* ■Adjust CSS settings to get just the look you want
 
 
-![](http://res.cloudinary.com/dfzokzfi5/image/upload/v1416970365/CSSDesigner/screen_cssdesigner.png)
+
+**Compatibility**
+
+* ■Open and save CSS using css format
+* ■Open and save CSS with layers
+
+***
+
+**[What's new?](https://romanysoft.github.io/CSSDesigner/versions.html#)**
+
+
+[![](https://romanysoft.github.io/CSSDesigner/images/screens/common/c5.png)](https://romanysoft.github.io/CSSDesigner)
+[![](https://romanysoft.github.io/CSSDesigner/images/screens/common/c6.png)](https://romanysoft.github.io/CSSDesigner)
