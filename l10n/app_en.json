@@ -12,16 +12,12 @@
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Full-featured CSS3 Designer.",
+        "ProjectTagline": "Full-featured CSS2/CSS3 Designer.",
         "BtnDownload": "Download",
         "BtnDownloadDescription": "Free | Official trial version.",
         "BtnBuy": "Buy",
         "BtnBuyDescription": "$9.99 | Official free upgrade.",
         "Screens": [
-            "{{images/screens/common/c1.png}}",
-            "{{images/screens/common/c2.png}}",
-            "{{images/screens/common/c3.png}}",
-            "{{images/screens/common/c4.png}}",
             "{{images/screens/common/c5.png}}",
             "{{images/screens/common/c6.png}}"
         ],
@@ -56,6 +52,21 @@
     "VersionPage": {
         "labelVersion": "Version",
         "list": [
+            {
+                "version":"{{4.7.2}}",
+                "updateDate": "{{2016.10.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{CSSDesigner-v4.7.2-darwin-x64.dmg}}",
+                        "size": "{{2.39MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/1mk6t7zi4fiv/CSSDesigner-v4.7.2-darwin-x64.zip}}",
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/CSSDesinger/4.7.2/CSSDesigner-v4.7.2-darwin-x64.dmg}}"
+                        ]
+                    }
+                ]
+            },              
             {
                 "version":"{{4.7.1}}",
                 "updateDate": "{{2016.10.02}}",
