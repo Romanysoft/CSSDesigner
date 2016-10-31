@@ -53,6 +53,39 @@
         "labelVersion": "Version",
         "list": [
             {
+                "version":"{{4.7.3.3}}",
+                "updateDate": "{{2016.10.31}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{CSSDesigner-v4.7.3-win32-x86-setup.exe}}",
+                        "size": "{{37.3MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/2s7srfqls6w1/CSSDesigner-v4.7.3-win32-x86-setup.exe}}",
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/CSSDesinger/4.7.3/CSSDesigner-v4.7.3-win32-x86-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{CSSDesigner-v4.7.3-win32-x64-setup.exe}}",
+                        "size": "{{43.6MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/72sl1sb89s17/CSSDesigner-v4.7.3-win32-x64-setup.exe}}",
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/CSSDesinger/4.7.3/CSSDesigner-v4.7.3-win32-x64-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{CSSDesigner-v4.7.3-darwin-x64.dmg}}",
+                        "size": "{{2.3MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/1x6wjkcophc5/CSSDesigner-v4.7.3-darwin-x64.zip}}",
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/CSSDesinger/4.7.3/CSSDesigner-v4.7.3-darwin-x64.dmg}}"
+                        ]
+                    }
+                ]
+            },             
+            {
                 "version":"{{4.7.2}}",
                 "updateDate": "{{2016.10.21}}",
                 "zipList": [
