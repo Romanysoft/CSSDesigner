@@ -53,7 +53,7 @@
         "labelVersion": "Version",
         "list": [
             {
-                "version":"{{4.7.3.3}}",
+                "version":"{{4.7.3}}",
                 "updateDate": "{{2016.10.31}}",
                 "zipList": [
                     {
