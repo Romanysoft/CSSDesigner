@@ -9,7 +9,12 @@
         reportIssueUrl:"//github.com/Romanysoft/CSSDesigner/issues",
         changeLogUrl:"//github.com/Romanysoft/CSSDesigner/wiki/Changelog",
         wikiUrl:"//github.com/Romanysoft/CSSDesigner/wiki",
+        jumpLocation:"https://www.romanysoft.net/cssdesigner/",
         romanysoftHome:"//www.romanysoft.com",
         copyright:"Copyright © " + (new Date()).getFullYear() + " Romanysoft LAB."
+    };
+    
+    if(window.RTYConfig.jumpLocation){
+        window.location = window.RTYConfig.jumpLocation;
     }
 })();
